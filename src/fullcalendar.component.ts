@@ -6,7 +6,7 @@ import * as  fullCalendar from 'fullcalendar';
   selector: 'angular2-fullcalendar',
   template: require('./fullcalendar.component.html'),
   styles: [
-    require('./fullcalendar.component.scss')
+    //require('./fullcalendar.component.scss')
   ],
   encapsulation: ViewEncapsulation.None
 })
